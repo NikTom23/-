@@ -15,7 +15,7 @@ void print() {
 	std::cout << "3 - paper\n";
 	std::cout << "INTER YOUR NUMBER " << std::endl;
 
-}
+}//---
 
 int main()
 {
